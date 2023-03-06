@@ -1,3 +1,5 @@
+### Local Installation
+```
 git clone https://github.com/TheOneAbove0/VideoMeeting.git
 cd videocall
 
