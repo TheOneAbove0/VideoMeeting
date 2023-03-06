@@ -1,4 +1,4 @@
-git clone https://github.com/TheOneAbove0/VIdeoCall.git
+git clone https://github.com/TheOneAbove0/VideoMeeting.git
 cd videocall
 
 #Open two terminals
