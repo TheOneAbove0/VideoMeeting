@@ -19,3 +19,6 @@ npm start
 
 goto new tab of chrome/browser and paste http://localhost:3000/lawyer/room/123456789
 goto incognito mode and paste  http://localhost:3000/client/room/123456789
+
+
+#note that roomId must be same
